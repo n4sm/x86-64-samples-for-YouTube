@@ -21,9 +21,9 @@
 ;       ip -> Eip -> rip
 ;
 ;   [Instructions]
-;       mov met une valeur dans un registre
-;       db déclare un byte (octet)
-;       
+;       mov : met une valeur dans un registre.
+;       db  : déclare un byte (octet).
+;       lea : met l'addresse d'une variable dans la destination. 
 
 
 BITS 64
