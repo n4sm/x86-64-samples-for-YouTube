@@ -36,9 +36,9 @@ section .data
     hello_len equ $-hello 
 
 section .text
-    global main ; l'EP ici
+    global _start ; l'EP ici
 
-main:
+_start:
     mov rax, 1
     mov rdi, 1
     mov rsi, hello
