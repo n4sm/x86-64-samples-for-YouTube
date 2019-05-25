@@ -1,6 +1,6 @@
 # x86-64-samples-for-YouTube
 In this repository, I will put all the examples of my series on the programmation in nasm 64 bits : 
-https://github.com/feanorlecodeur/x86-64-samples-for-YouTube
+https://youtu.be/yxzUi8MdOAA
 
 # Howto
 
