@@ -19,7 +19,7 @@ _start:
     syscall
     mov rax, 1
     mov rdi, 1
-    mov rsi, [rsp+16] ; path of the program
+    mov rsi, [rsp+16] ; first argument
     mov rdx, 0x8
     syscall
     mov rax, 1
