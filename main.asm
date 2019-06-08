@@ -51,3 +51,22 @@ _start:
     syscall
 
 
+
+;   -----------------------------------------###################################################------------------------------------------
+
+;   # II - Arguments utilisateurs et manipulation de la stack
+;       Equivalent de argc et argv
+
+; [Registres]
+;       rsp -> pointe vers la derniere valeur empilée sur la stack (addr basses)
+;       rbp -> pointe vers la base de la stack (addr hautes), sert de référence pour les fonctions
+;       rip -> pointe vers la prochaine instruction
+;       r8 -> Registres généraux
+;       r9 -> Registres généraux
+;       r10 -> Registres généraux
+;       r11 -> Registres généraux
+
+
+
+
+;   -----------------------------------------###################################################------------------------------------------
