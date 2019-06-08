@@ -6,6 +6,7 @@ https://youtu.be/yxzUi8MdOAA
 
 For assemble the programs, you must just do : 
 
-```nasm -f elf64 main.asm -o main.o```
+```chmod +x make.sh```
 
-```ld main.o -o main```
+
+```./make```
