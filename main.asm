@@ -65,7 +65,10 @@ _start:
 ;       r9 -> Registres généraux
 ;       r10 -> Registres généraux
 ;       r11 -> Registres généraux
-
+;       r12 -> Registres généraux
+;       r13 -> Registres généraux
+;       r14 -> Registres généraux     
+;       r15 -> Registres généraux
 
 
 
